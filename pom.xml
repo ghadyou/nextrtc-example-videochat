@@ -9,7 +9,7 @@
 	</parent>
 	<artifactId>nextrtc-example-videochat</artifactId>
 	<groupId>org.nextrtc.examples</groupId>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>videochat</name>
 	<description>simple nextRTC videochat application</description>
 
